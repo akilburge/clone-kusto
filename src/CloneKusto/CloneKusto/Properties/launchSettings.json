@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CloneKusto": {
+      "commandName": "Project",
+      "commandLineArgs": "--databases \"devtest-PaidSearch\""
+    }
+  }
+}
